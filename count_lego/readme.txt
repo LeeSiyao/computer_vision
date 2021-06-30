@@ -1,0 +1,1 @@
+Provide a count of the number of Blue 2 by 4 bricks and the number of Red 2 by 2 bricks in such an image.

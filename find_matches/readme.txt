@@ -1,0 +1,1 @@
+Find the corresponding parts in the two groups of photos. and match the same features.
